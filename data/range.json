@@ -1,0 +1,67 @@
+{
+  "id": "range",
+  "title": "Range",
+  "author": "David Epstein",
+  "year": 2019,
+  "pages": 339,
+  "isbn": "9780735214484",
+  "shelf": "Ideas",
+  "status": "reading",
+  "progress": 18,
+  "fit": 5,
+  "accent": "#1f4d3c",
+  "why": "First book on this shelf. A way to remember the argument, not just finish the pages.",
+  "blurb": "Generalists often win once the problem stops looking like golf or chess. Kind worlds reward narrow practice. Wicked worlds reward sampling, analogies, and late focus.",
+  "chapters": [
+    {
+      "id": "tiger",
+      "title": "Roger vs Tiger",
+      "idea": "A sampling period often beats an early head start.",
+      "body": "Tiger Woods was shaped for golf almost from the crib. Roger Federer played many sports and only later narrowed. Epstein uses the pair to break the cult of the head start. Eventual elites often spend early years sampling, lightly structured, then ramp deliberate practice after they know the match is real.",
+      "remember": "Head start is not the same as match quality."
+    },
+    {
+      "id": "kind",
+      "title": "Kind vs wicked",
+      "idea": "Specialists win kind games. Range wins wicked ones.",
+      "body": "A kind environment repeats patterns and gives fast, accurate feedback. Chess, golf, and classical drills live here. A wicked environment has unclear rules, rare patterns, and delayed or noisy feedback. Most modern work is wicked. Methods that worked in a kind room can fail, confidently, in a wicked one.",
+      "remember": "If feedback is late or muddy, narrow practice is not enough."
+    },
+    {
+      "id": "sampling",
+      "title": "Sampling period",
+      "idea": "Breadth first, then a spike of practice.",
+      "body": "The common path to excellence in the studies Epstein cites is not early specialization. It is a sampling period across activities, then a narrowing of focus and a jump in practice volume. Sampling is how a person learns their own fit. That fit is what researchers call match quality.",
+      "remember": "Sample to find the match. Then practice."
+    },
+    {
+      "id": "slow",
+      "title": "Learning that looks slow",
+      "idea": "The best learning often looks like falling behind.",
+      "body": "Desirable difficulties — spacing, interleaving, testing yourself — feel worse on the immediate quiz and last longer in memory. Blocking one skill feels efficient and fades. The shelf is built on this: recall beats reread.",
+      "remember": "Inefficient today, durable next month."
+    },
+    {
+      "id": "analogy",
+      "title": "Outside experience",
+      "idea": "Analogies are a tool, not a distraction.",
+      "body": "People who can carry a structure from one domain into another solve problems that specialists inside the domain miss. Range is not a refusal to go deep. It is a stock of models you can borrow when the local tools stop working.",
+      "remember": "Ask what this is like, not only what it is."
+    },
+    {
+      "id": "tools",
+      "title": "Drop familiar tools",
+      "idea": "Experts cling to methods that already worked.",
+      "body": "In novel situations, trained people often keep the tool that made them successful in a kinder setting. The advantage of range is knowing when the old tool is the wrong one, and being willing to put it down.",
+      "remember": "Familiar is not the same as fitting."
+    }
+  ],
+  "cards": [
+    {"id": "c1", "q": "What is a kind learning environment?", "a": "Patterns repeat and feedback is fast and accurate. Golf and chess are the examples."},
+    {"id": "c2", "q": "What is a wicked learning environment?", "a": "Rules are unclear, patterns may not repeat, and feedback is delayed or noisy."},
+    {"id": "c3", "q": "What is the sampling period?", "a": "An early stretch of varied, lightly structured experience before narrow deliberate practice."},
+    {"id": "c4", "q": "Why does Federer sit next to Woods in the argument?", "a": "Woods specialized early. Federer sampled many sports, then focused. Both reached the top by different paths."},
+    {"id": "c5", "q": "What is match quality?", "a": "How well a person fits the work, sport, or field they later specialize in."},
+    {"id": "c6", "q": "Why can learning that feels slow be better?", "a": "Spacing, interleaving, and self-testing feel worse now and stick longer."}
+  ]
+}
